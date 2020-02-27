@@ -24,3 +24,9 @@ In the above architecture, we are going to use the following
 - API gateway has its own caching as well called "API Gateway response cache"
 - AWS lamda -- can be a service OUR serverless services per se
 - Amazon Cloudwatch - monitoring the health of your system
+
+
+Other cool things:
+
+Everything is going to be containerized using Docker
+Using CI/CD for continuous integration and continuous development

@@ -16,7 +16,7 @@ In the above architecture, we are going to use the following
 - RDS is the relational database systems - so instead of creating multiple different databases and paying cost for that use RDS and create multiple different databases inside it. 
 - Dynamo Db is basic NOSQL db in AWS.
 
-![architecture](https://pbs.twimg.com/media/ERyQGBbWkAALTNh.png)
+![architecture](https://i.imgur.com/GEjgv6d.png)
 
 In the above architecture, we are going to use the following
 
